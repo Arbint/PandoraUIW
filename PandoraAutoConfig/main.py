@@ -6,7 +6,7 @@ from PySide6.QtCore import QStandardPaths
 from PySide6.QtWidgets import QApplication, QMainWindow, QPushButton, QVBoxLayout, QHBoxLayout, QWidget, QFileDialog, QLineEdit, QLabel
 from PySide6 import QtCore
 from UserInterfacesPandora import qdarkstyle
-
+import Pandora_Maya_Integration
 class PandoraInstallerWidget(QWidget):
     def __init__(self):
         super().__init__()
