@@ -1,0 +1,1 @@
+start "" "%~dp0/Pandora/Python37/pythonw.exe" "%~dp0/PandoraAutoConfig/main.py"
